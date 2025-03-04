@@ -15,6 +15,20 @@
 <br>~ Tools: MS Excel, MySQL, Power BI
 <br>~ Concepts: Data Analysis, Data Visualization, ETL Processes, Machine Learning Basics
 
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" height="40" alt="sql logo" />
+  <img width="12" />
+  <img src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Symbol.png" height="40" alt="powerbi logo" />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000" height="40" alt="excel logo" />
+   <img width="12" />
+
 <!---
 Garima-K27/Garima-K27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
