@@ -13,7 +13,7 @@
 <h2 align="left">🔹 Tech Stack:</h2>
 <br>~ Languages: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL
 <br>~ Tools: MS Excel, MySQL, Power BI
-<br>~ Concepts: Data Analysis, Data Visualization, ETL Processes, Machine Learning Basics
+<br>~ Concepts: Data Analysis, Data Visualization, ETL Processes
 
 <h2 align="left">I code with</h2>
 
