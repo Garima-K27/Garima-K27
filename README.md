@@ -11,7 +11,7 @@
 <br>~ Utilize Power BI for dynamic reports and visual analytics 🎨
 
 <h2 align="left">🔹 Tech Stack:</h2>
-<br>~ Languages: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL
+<br>~ Languages: Python, SQL
 <br>~ Tools: MS Excel, MySQL, Power BI
 <br>~ Concepts: Data Analysis, Data Visualization, ETL Processes
 
